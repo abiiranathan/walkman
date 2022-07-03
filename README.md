@@ -18,7 +18,7 @@ go get github.com/abiiranathan/walkman
 
 - As binary
 ```bash
-go install github.com/abiiranathan/walkman/cmd@latest
+go install github.com/abiiranathan/walkman/cmd/walkman@latest
 ```
 
 ### Usage
